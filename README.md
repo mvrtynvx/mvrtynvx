@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mvrtynvx
-- 🌱 I’m currently learning HTML, CSS 
+- 🌱 I’m currently learning HTML, CSS, JS
 
 <!---
 mvrtynvx/mvrtynvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
